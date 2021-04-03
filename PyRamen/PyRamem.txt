@@ -1,0 +1,11 @@
+spicy miso ramen {'01-count': 6802.0, '02-revenue': 6814.0, '03-cogs': 6807.0, '04-profi': 7.0}
+tori paitan ramen {'01-count': 6818.0, '02-revenue': 6831.0, '03-cogs': 6824.0, '04-profi': 7.0}
+truffle butter ramen {'01-count': 6726.0, '02-revenue': 6740.0, '03-cogs': 6733.0, '04-profi': 7.0}
+tonkotsu ramen {'01-count': 6800.0, '02-revenue': 6813.0, '03-cogs': 6806.0, '04-profi': 7.0}
+vegetarian spicy miso {'01-count': 6822.0, '02-revenue': 6834.0, '03-cogs': 6827.0, '04-profi': 7.0}
+shio ramen {'01-count': 6744.0, '02-revenue': 6755.0, '03-cogs': 6749.0, '04-profi': 6.0}
+miso crab ramen {'01-count': 6554.0, '02-revenue': 6566.0, '03-cogs': 6560.0, '04-profi': 6.0}
+nagomi shoyu {'01-count': 6660.0, '02-revenue': 6671.0, '03-cogs': 6665.0, '04-profi': 6.0}
+soft-shell miso crab ramen {'01-count': 6742.0, '02-revenue': 6756.0, '03-cogs': 6749.0, '04-profi': 7.0}
+burnt garlic tonkotsu ramen {'01-count': 6770.0, '02-revenue': 6784.0, '03-cogs': 6776.0, '04-profi': 8.0}
+vegetarian curry + king trumpet mushroom ramen {'01-count': 6686.0, '02-revenue': 6699.0, '03-cogs': 6693.0, '04-profi': 6.0}
